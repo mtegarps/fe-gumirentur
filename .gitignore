@@ -1,0 +1,6 @@
+/.env
+/.env.example
+/.env.local
+/.next
+/COMPONENT_LIST.txt
+/README.md
