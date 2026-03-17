@@ -1,0 +1,25 @@
+Komponen yang sudah dibuat:
+✅ package.json
+✅ tailwind.config.js
+✅ next.config.js
+✅ .env.example
+✅ src/lib/api.ts
+✅ src/types/index.ts
+✅ src/store/index.ts
+✅ src/app/globals.css
+✅ src/app/layout.tsx
+✅ src/components/Navbar.tsx
+✅ src/app/page.tsx
+
+Komponen yang perlu dibuat:
+- src/components/Footer.tsx
+- src/components/CarCard.tsx
+- src/app/fleet/page.tsx
+- src/app/booking/page.tsx
+- src/app/login/page.tsx
+- src/app/register/page.tsx
+- src/app/dashboard/page.tsx
+- src/components/BookingForm.tsx
+- postcss.config.js
+- tsconfig.json
+- README.md
