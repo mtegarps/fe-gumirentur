@@ -3,7 +3,7 @@ import { MessageCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 export default function WhatsAppButton() {
-  const phoneNumber = '6281234567890'; // Ganti dengan nomor WA asli
+  const phoneNumber = '6282120649499'; 
   const message = 'Halo Gumilar Rent, saya tertarik untuk menyewa mobil';
   const waLink = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
 

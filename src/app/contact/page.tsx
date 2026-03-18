@@ -34,8 +34,8 @@ export default function ContactPage() {
     }, 1500);
   };
 
-  const phone = g('contact_phone', '0838-5727-4487');
-  const whatsapp = g('contact_whatsapp', '6283857274487');
+  const phone = g('contact_phone', '082120649499');
+  const whatsapp = g('contact_whatsapp', '6282120649499');
   const email = g('contact_email', 'info@gumilar.com');
   const officeAddress = g('contact_office_address', "Jl. Dili No.19, Antapani Kidul,\nKec. Antapani, Kota Bandung,\nJawa Barat 40291");
   const mapsEmbed = g('contact_maps_embed', 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.5!2d107.6634!3d-6.9172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e6395c8e9d3b%3A0x1!2sJl.+Dili+No.19!5e0!3m2!1sen!2sid!4v1234567890');

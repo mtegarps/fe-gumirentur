@@ -164,7 +164,7 @@ export default function AboutPage() {
                 </div>
                 <div className="p-5 text-center">
                   <div className="flex justify-center mb-2">{[...Array(5)].map((_, i) => <Star key={i} size={12} className="text-secondary-400 fill-secondary-400" />)}</div>
-                  <p className="text-primary-600 font-semibold text-sm">Professional Driver</p>
+                  <p className="text-primary-600 font-semibold text-sm">Professional Crew</p>
                   <p className="text-neutral-400 text-xs mt-1">Gumilar Transport</p>
                 </div>
                 <div className="h-1 bg-gradient-to-r from-primary-400 to-primary-600 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left" />
